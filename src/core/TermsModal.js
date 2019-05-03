@@ -25,7 +25,7 @@ class TermsModal extends Component {
               <h5>LAST REVISION: [21/04/2019]</h5>
               <hr />
               <h5>PLEASE READ THIS TERMS OF SERVICE AGREEMENT CAREFULLY. BY USING THIS WEBSITE OR ORDERING PRODUCTS FROM THIS WEBSITE YOU AGREE TO BE BOUND BY ALL OF THE TERMS AND CONDITIONS OF THIS AGREEMENT.</h5>
-              <p>This Terms of Service Agreement (the "Agreement") governs your use of this website, [blogger.ajax27.com] (the "Website"), [Ajax27 Design and Development] ("Business Name") offer of products for purchase on this Website, or your purchase of products available on this Website. This Agreement includes, and incorporates by this reference, the policies and guidelines referenced below. [Ajax27 Design and Development] reserves the right to change or revise the terms and conditions of this Agreement at any time by posting any changes or a revised Agreement on this Website.</p>
+              <p>This Terms of Service Agreement (the "Agreement") governs your use of this website, [ajax27.com] (the "Website"), [Ajax27 Design and Development] ("Business Name") offer of products for purchase on this Website, or your purchase of products available on this Website. This Agreement includes, and incorporates by this reference, the policies and guidelines referenced below. [Ajax27 Design and Development] reserves the right to change or revise the terms and conditions of this Agreement at any time by posting any changes or a revised Agreement on this Website.</p>
               <p>[Ajax27 Design and Development] will alert you that changes or revisions have been made by indicating on the top of this Agreement the date it was last revised. The changed or revised Agreement will be effective immediately after it is posted on this Website. Your use of the Website following the posting any such changes or of a revised Agreement will constitute your acceptance of any such changes or revisions.</p>
               <p>[Ajax27 Design and Development] encourages you to review this Agreement whenever you visit the Website to make sure that you understand the terms and conditions governing use of the Website. This Agreement does not alter in any way the terms or conditions of any other written agreement you may have with [Ajax27 Design and Development] for other products or services. If you do not agree to this Agreement (including any referenced policies or guidelines), please immediately terminate your use of the Website.  If you would like to print this Agreement, please click the print button on your browser toolbar.</p>
               <hr />
@@ -34,7 +34,7 @@ class TermsModal extends Component {
               <p>Customer Solicitation: Unless you notify our third party call center reps or direct [Ajax27 Design and Development] sales reps, while they are calling you, of your desire to opt out from further direct company communications and solicitations, you are agreeing to continue to receive further emails and call solicitations [Ajax27 Design and Development] and its designated in house or third party call team(s).</p>
               <p>Opt Out Procedure: We provide 3 easy ways to opt out of from future solicitations.
                 1. You may use the opt out link found in any email solicitation that you may receive.
-              2. You may also choose to opt out, via sending your email address to: [shaun@blogger.ajax27.com].</p>
+              2. You may also choose to opt out, via sending your email address to: [shauncollins@ajax27.com].</p>
               <p>Proprietary Rights. [Ajax27
               Design and Development] has proprietary rights and trade secrets
               in the Products. You may not copy, reproduce, resell or redistribute any
@@ -102,7 +102,7 @@ class TermsModal extends Component {
               monitor interactions between and among users of the Website and to remove any
               content [Ajax27 Design and
               Development] &nbsp;deems objectionable,
-            in MuscleUP Nutrition 's sole discretion.&nbsp;</p>
+              in Ajax27's sole discretion.&nbsp;</p>
 
               <p><strong>III.
             DISCLAIMER OF WARRANTIES</strong></p>
