@@ -1,5 +1,6 @@
 import React from "react";
 import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
+import fav from '../images/favicon.ico';
 
 const FooterPage = () => {
   return (
@@ -7,7 +8,10 @@ const FooterPage = () => {
       <MDBContainer fluid className="text-center text-md-left">
         <MDBRow>
           <MDBCol md="6">
-            <h5 className="title">Shaun Collins Ajax-React Social Network</h5>
+            <h5 className="title">Shaun Collins Ajax-React Social Network
+            &nbsp;
+            <img src={fav} alt="favicon" />
+            </h5>
             <p>
               I have been designing and developng websites for the last three years.
               <br />If you would like to employ my services message me!
@@ -16,18 +20,19 @@ const FooterPage = () => {
           </MDBCol>
           <MDBCol md="6">
             <h5 className="title">My Social Links</h5>
+            <p>Feel free to reach out!</p>
             <ul>
               <li className="list-unstyled">
-                <a href="https://www.facebook.com/shaun.collins.5623">Facebook &nbsp;<i class="fab fa-facebook-square"></i></a>
+                <a href="https://www.facebook.com/shaun.collins.5623">Facebook &nbsp;<i className="fab fa-facebook-square"></i></a>
               </li>
               <li className="list-unstyled">
-                <a href="https://twitter.com/ajax27Co">Twitter &nbsp;<i class="fab fa-twitter-square"></i></a>
+                <a href="https://twitter.com/ajax27Co">Twitter &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i className="fab fa-twitter-square"></i></a>
               </li>
               <li className="list-unstyled">
-                <a href="https://github.com/ajax27">Github &nbsp;<i class="fab fa-github-square"></i></a>
+                <a href="https://github.com/ajax27">Github &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i className="fab fa-github-square"></i></a>
               </li>
               <li className="list-unstyled">
-                <a href="https://www.linkedin.com/in/shaun-collins-ajax27/">LinkedIn &nbsp;<i class="fab fa-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/shaun-collins-ajax27/">LinkedIn &nbsp;&nbsp;&nbsp;<i className="fab fa-linkedin"></i></a>
               </li>
             </ul>
           </MDBCol>

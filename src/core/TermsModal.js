@@ -288,7 +288,7 @@ class TermsModal extends Component {
 
             <h2>Who we are</h2>
             <h5 style={{ color: '#dd3838' }}> Scroll Right-Side</h5>
-            <p>Our website address is: https://blogger.ajax27.com.</p>
+            <p>Our website address is: https://socialreaction.ajax27.com.</p>
 
             <h2>What personal data we collect and why we collect it</h2>
 

@@ -29,9 +29,9 @@ export const list = page => {
         method: "GET"
     })
         .then(response => {
-            return response.json();
+            return response.json()
         })
-        .catch(err => console.log(err));
+        .catch(err => console.log(err))
 };
 
 export const singlePost = postId => {
